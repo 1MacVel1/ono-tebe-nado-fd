@@ -25,7 +25,6 @@
 .header-logo {
   width: 148px;
   height: 105px;
-  padding: 0;
   padding: 0 6px;
   object-fit: contain;
 }
@@ -272,7 +271,6 @@
 }
 
 .footer-address {
-  justify-self: end;
   justify-self: start;
   align-self: start;
   max-width: 264px;
